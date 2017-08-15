@@ -19,3 +19,4 @@ En storage, crear un nuevo storage y subir un archivo de audio que sean mayores 
 
 # Motivación
 Poder conocer las nuevas tecnologías disponibles para la utilización de reconocimientos de voz.
+adebarros@expand.com.uy - Andrés de Barros.
