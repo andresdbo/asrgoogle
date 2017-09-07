@@ -15,7 +15,7 @@ En storage, crear un nuevo storage y subir un archivo de audio que sean mayores 
 ### Ejecución de audio a texto de forma asincrónica con un audio mayor a 60s
 `python asrgoogle_sync_async.py gs://storage-google-file.wav`
 ### Ejecución sincrónica con un audio en disco local
-`python asrgoogle_sync_async.py gs://file.wav`
+`python asrgoogle_sync_async.py file.wav`
 
 # Motivación
 Poder conocer las nuevas tecnologías disponibles para la utilización de reconocimientos de voz.
